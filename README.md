@@ -2,7 +2,7 @@
 
 This is a simple calculator application built using React, inspired by the iPhone calculator interface. You can perform basic arithmetic operations such as addition, subtraction, multiplication, and division with this calculator.
 
-![Calculator App Screenshot](/screenshot.png)
+![Calculator](https://github.com/oliveiraFreddie/screenshots/blob/dcb1991e3e80764fdbe33b4ec705caa799d003ed/Captura%20de%20tela%202023-09-17%20102518.png)
 
 ## Technologies Used
 
